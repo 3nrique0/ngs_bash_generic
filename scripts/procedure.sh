@@ -2,6 +2,10 @@
 
 ## Variables:
 
+#### Create your python virtual environment.
+#### If you are using conda, adjust accordingly
+bash scripts/00_create_py_env.sh  name_environment
+
 
 ##################################################
 
