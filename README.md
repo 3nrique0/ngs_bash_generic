@@ -23,7 +23,7 @@ Ready ? LET'S GO !
 ## Get your project structure right
 
 I took the structure of the project advised by
-GenomeDK[https://genome.au.dk/docs/best-practices/]'s best practices.
+[GenomeDK](https://genome.au.dk/docs/best-practices/)'s best practices.
 
 ----
 I'll add some schematics here
